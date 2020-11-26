@@ -10,6 +10,11 @@ body {
   background-repeat: no-repeat;
   background-position: top center;
 }
+.main-menu li {
+  display: inline;
+  margin-right: 5px;
+}
+
 
 .container {
   max-width: 928px;
